@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 다시 작성
+=======
+test2에서 작성합니다.
+>>>>>>> create conflict on test2
